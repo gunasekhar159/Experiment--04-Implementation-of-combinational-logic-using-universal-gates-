@@ -73,27 +73,34 @@ endmodule
 ## F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 
 ## Truthtable
-![OUTPUT]()
+
+![OUTPUT](https://github.com/gunasekhar159/Experiment--04-Implementation-of-combinational-logic-using-universal-gates-/blob/main/1.png?raw=true)
 
 
 
 ##  RTL realization
-![OUTPUT]()
+
+![OUTPUT](https://github.com/gunasekhar159/Experiment--04-Implementation-of-combinational-logic-using-universal-gates-/blob/main/2.png?raw=true)
 
 
 
 ## Timing diagram 
-![OUTPUT]()
+
+![OUTPUT](https://github.com/gunasekhar159/Experiment--04-Implementation-of-combinational-logic-using-universal-gates-/blob/main/3.jpeg?raw=true)
 
 ## F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
+
 ## Truthtable
-![OUTPUT]()
+
+![OUTPUT](https://github.com/gunasekhar159/Experiment--04-Implementation-of-combinational-logic-using-universal-gates-/blob/main/4.png?raw=true)
 
 ##  RTL realization
-![OUTPUT]()
+
+![OUTPUT](https://github.com/gunasekhar159/Experiment--04-Implementation-of-combinational-logic-using-universal-gates-/blob/main/5.png?raw=true)
 
 ## Timing diagram 
-![OUTPUT]()
+
+![OUTPUT](https://github.com/gunasekhar159/Experiment--04-Implementation-of-combinational-logic-using-universal-gates-/blob/main/6.jpeg?raw=true)
 
 ## Result:
 Thus implementation of logic functions using NAND and NOR gates is done and its operation is verified in Quartus using Verilog programming.
